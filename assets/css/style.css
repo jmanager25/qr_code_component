@@ -1,0 +1,15 @@
+body {
+    background-color: lightgrey;
+}
+
+
+.project{
+    background-color: white;
+    margin: auto;
+    width: 50%;
+}
+
+
+.qrccode{
+    width: 10px;
+}
